@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - bottom
+  - top
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - bottom
+  - top
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: mouth
+    uniqueID: 4027412827
+    locked: 0
+  - name: side_bits
+    uniqueID: 1974298497
+    locked: 0
+  - name: bottom_gum_back
+    uniqueID: 3466928751
+    locked: 0
+  - name: bottom_tooth
+    uniqueID: 989761943
+    locked: 0
+  - name: bottom_tooth_damage
+    uniqueID: 1114452473
+    locked: 0
+  - name: bottom_gum_front
+    uniqueID: 2161160143
+    locked: 0
+  - name: player
+    uniqueID: 210306853
+    locked: 0
+  - name: top_gum_back
+    uniqueID: 3797677943
+    locked: 0
+  - name: top_tooth
+    uniqueID: 2538729099
+    locked: 0
+  - name: top_gum_front
+    uniqueID: 3782225317
+    locked: 0
+  - name: UI
+    uniqueID: 2859592835
+    locked: 0
